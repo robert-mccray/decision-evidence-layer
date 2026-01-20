@@ -1,1 +1,6 @@
+{"decision_id":"dec_0001","decision_type":"coverage_recommendation","model_version":"risk-model-v1.2","confidence_score":0.71,"risk_band":"MEDIUM","policy_id":"POL-1001","facility_code":"FAC-023","decision_ts":"2026-01-18T20:14:09Z","input_features_hash":"a13f9c2","override_flag":false}
+{"decision_id":"dec_0002","decision_type":"coverage_recommendation","model_version":"risk-model-v1.2","confidence_score":0.92,"risk_band":"LOW","policy_id":"POL-1002","facility_code":"FAC-023","decision_ts":"2026-01-18T20:15:11Z","input_features_hash":"bb31d10","override_flag":false}
+{"decision_id":"dec_0003","decision_type":"fraud_flag","model_version":"risk-model-v1.3","confidence_score":0.44,"risk_band":"HIGH","policy_id":"POL-1003","facility_code":"FAC-102","decision_ts":"2026-01-18T20:18:40Z","input_features_hash":"c019aa0","override_flag":true,"override_reason_code":"HUMAN_REVIEW_REQUIRED"}
+{"decision_id":"dec_0004","decision_type":"coverage_recommendation","model_version":"risk-model-v1.3","risk_band":"MEDIUM","policy_id":"POL-1004","facility_code":"FAC-102","decision_ts":"2026-01-18T20:22:01Z"} 
+{"decision_id":"dec_0005","decision_type":"coverage_recommendation","model_version":"","confidence_score":0.61,"risk_band":"MID","policy_id":"POL-1004","facility_code":"","decision_ts":"not-a-date"}
 

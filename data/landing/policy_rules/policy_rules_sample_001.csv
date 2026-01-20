@@ -1,1 +1,6 @@
+policy_id,rule_name,threshold,action
+POL-1001,confidence_min,0.60,ALLOW
+POL-1002,confidence_min,0.60,ALLOW
+POL-1003,confidence_min,0.60,ALLOW
+POL-1004,confidence_min,0.60,ALLOW
 
