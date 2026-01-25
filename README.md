@@ -44,8 +44,4 @@ Reject reasons are recorded instead of silently discarding bad data.
 ## Key positioning sentence
 > I separate decision-making from decision evidence, so automated or AI-assisted actions remain reviewable, auditable, and defensible long after execution.
 
-## Next steps (if deploying in Azure)
-1) Create ADLS containers (landing/bronze/silver/gold/rejects)
-2) Add ADF pipelines mirroring `pipelines/adf/*`
-3) Create serverless SQL views using `sql/10_silver_views.sql` and `sql/20_gold_views.sql`
-4) Build a 1-page Power BI report per `docs/powerbi.md`
+
